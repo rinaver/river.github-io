@@ -1,0 +1,39 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+div{
+	width: 70%;
+	margin: 30px auto;
+	padding: 30px;
+	background-color: #000;
+	}
+
+	 body{
+	 	background-color: #000;
+	 }
+
+	 h1{
+	 	color: #fff;
+	 	font-family: passero one;
+	 	text-align:center;
+
+	 }
+	 @font-face{
+	font-family: passero one ;
+	src: url("passero-one-cyrillic.ttf");
+		}
+		p{
+			color: #fff;
+			font-family: passero one;
+			font-size: 20pt;
+	text-align: justify;
+	margin: 20px 0px;
+
+		}
+		img {
+	width: 100%;
+	height: auto;
+
+}

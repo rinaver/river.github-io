@@ -1,0 +1,38 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+div{
+	width: 70%;
+	margin: 30px auto;
+	padding: 30px;
+	background-color: #4a1212;
+	}
+	 body{
+	 	background-color: #4a1212;
+	 }
+h1{
+
+	 	color: #fff;
+	 	font-family: lombardia;
+	 	text-align:center;
+
+	 }
+	 @font-face{
+	font-family: lombardia;
+	src: url("Lombardia.ttf");
+}
+img {
+	width: 100%;
+	height: auto;
+	
+}
+p{
+			color: #fff;
+			font-family:lombardia ;
+			font-size: 20pt;
+	text-align: justify;
+	margin: 20px 0px;
+
+		}

@@ -1,0 +1,38 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+div{
+	width: 70%;
+	margin: 30px auto;
+	padding: 30px;
+	background-color: #ba7f07;
+	}
+	body{
+	background-color: #ba7f07;
+	 
+	 }
+	 h1{
+	font-size:42pt;
+	text-align:center;
+	font-family: gant;
+	color: #000;
+}
+@font-face {
+	font-family:gant ;
+	src: url("Gant.ttf");
+}
+p{
+			color: #000;
+			font-family:gant ;
+			font-size: 20pt;
+	text-align: justify;
+	margin: 20px 0px;
+
+		}
+		img {
+	width: 100%;
+	height: auto;
+	
+}

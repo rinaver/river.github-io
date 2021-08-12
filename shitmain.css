@@ -1,0 +1,38 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+h1{
+	font-size:42pt;
+	text-align:center;
+	font-family: voronov;
+	color: #fff;
+}
+@font-face {
+	font-family: voronov;
+	src: url("Voronov.ttf");
+}
+div{
+	width: 70%;
+	margin: 30px auto;
+	padding: 30px;
+	background-color: #151d61;
+	}
+	body{
+	background-color: #151d61;
+	 
+	 }
+	 img {
+	width: 100%;
+	height: auto;
+	
+}
+p{
+			color: #fff;
+			font-family:voronov ;
+			font-size: 20pt;
+	text-align: justify;
+	margin: 20px 0px;
+
+		}
